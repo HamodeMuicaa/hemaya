@@ -6,4 +6,4 @@ python-telegram-bot==20.3
 datetime
 aiohttp
 tgcrypto
-utils
+utils==1.0.2
